@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/elipse.png</file>
+    <file>images/linha.png</file>
+    <file>images/ponto.png</file>
+    <file>images/retangulo.png</file>
+    <file>images/triangulo.png</file>
+    <file>images/losango.png</file>
+    <file>images/atalhos.png</file>
+    <file>images/uDraw.png</file>
+</qresource>
+</RCC>
